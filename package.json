@@ -1,0 +1,19 @@
+{
+  "name": "Ice and Fire Front-End",
+  "version": "1.0.0",
+  "description": "an App of Ice and Fire on Bluemix",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "json-server --id unid db.json --watch --routes routes.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:edm00se/IceAndFireOnBluemix.git"
+  },
+  "author": "edm00se",
+  "license": "Creative Commons Attribution 3.0 Unported License",
+  "dependencies": {
+    "json-server": "^0.7.20"
+  }
+}
