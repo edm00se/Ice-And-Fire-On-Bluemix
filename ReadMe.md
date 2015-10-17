@@ -26,7 +26,7 @@ This version includes the relevant JARs that are required, in the Code/Jars path
 
 ## Back-End Mock
 
-To mock the back-end and run the client/UI app without a Domino server (with no back-end logic by the *HTTPServet*s), you can use `json-server`. To do this, you can either install the dependencies specified in the _package.json_ file by running `npm install` or you can install `json-server` globally yourself, via `npm install -g json-server`. [Create a symlink](http://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) to the NSF/WebContent path called 'public'; this is how `json-server` will identify the directory with the static assets. To start, from the project path, either run `json-server --id unid --watch housesDB.json --routes routes.json` or just use `npm start`. The _package.json_ file defines the same for the _start_ command that _npm_ will use.
+To mock the back-end and run the client/UI app without a Domino server (with no back-end logic by the *HTTPServet*s), you can use `json-server`. To do this, you can either install the dependencies specified in the _package.json_ file by running `npm install` or you can install `json-server` globally yourself, via `npm install -g json-server`. [Create a symlink](http://www.howtogeek.com/howto/16226/complete-guide-to-symbolic-links-symlinks-on-windows-or-linux/) to the App ODP/WebContent path called 'public'; this is how `json-server` will identify the directory with the static assets. To start, from the project path, either run `json-server --id unid --watch housesDB.json --routes routes.json` or just use `npm start`. The _package.json_ file defines the same for the _start_ command that _npm_ will use.
 
 ## History
 
