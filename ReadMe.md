@@ -39,4 +39,4 @@ This application been the subject of of numerous blog posts of mine, as I've pro
 
 ## License
 
-As with the original App of Ice and Fire and is my norm for my blog and my GitHub repositories, the work contained herein is licensed under a <a href="//creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>. You may use, alter, and redistribute the code herein (with citation), while expecting no warranty for its use.
+As with the original App of Ice and Fire and is my norm for my blog and my GitHub repositories, the work contained herein is licensed under a <a href="http://choosealicense.com/licenses/mit">the MIT License (MIT)</a>. You may use, alter, and redistribute the code herein (with citation), while expecting no warranty for its use.
