@@ -1,5 +1,5 @@
 {
-  "name": "Ice and Fire Front-End",
+  "name": "App of Ice and Fire on Bluemix",
   "version": "1.0.0",
   "description": "an App of Ice and Fire on Bluemix",
   "main": "index.html",
@@ -12,7 +12,7 @@
     "url": "git@github.com:edm00se/Ice-And-Fire-On-Bluemix.git"
   },
   "author": "edm00se",
-  "license": "Creative Commons Attribution 3.0 Unported License",
+  "license": "MIT",
   "dependencies": {
     "json-server": "^0.8.7"
   }
